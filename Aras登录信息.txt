@@ -1,0 +1,4 @@
+http://localhost/InnovatorServer
+
+用户名：admin
+初始密码:innovator
